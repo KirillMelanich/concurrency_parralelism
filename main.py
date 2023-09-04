@@ -17,7 +17,6 @@ def main_sync():
         send_request(i, URL)
 
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     start = time.perf_counter()
     main_sync()
